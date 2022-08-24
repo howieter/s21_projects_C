@@ -18,6 +18,6 @@ The goal of this project was to get comfortable with strings handling in C, expl
 All commands to build and test program you can find in Makefile.
 
 ## Team and workspace
-* Developers: Garegin_Karapetyan (howieter), Elizaveta (neelrhyra), Vladimir (warbirdo).
+* Developers: Garegin_Karapetyan (howieter) - team lead, Elizaveta (neelrhyra), Vladimir (warbirdo).
 * The work was done on Mac OS.
 * Thanks School_21 for provideing this task.
