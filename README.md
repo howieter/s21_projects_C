@@ -20,4 +20,4 @@ All commands to build and test program you can find in Makefile.
 ## Team and workspace
 * Developers: Garegin_Karapetyan (howieter) - team lead, Elizaveta (neelrhyra), Vladimir (warbirdo).
 * The work was done on Mac OS.
-* Thanks School_21 for provideing this task.
+* Thanks School_21 for providing this task.
